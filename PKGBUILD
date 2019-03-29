@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 
 pkgname=chrome-localstorage-git
-pkgver=1.1.0.r3.3a65360
+pkgver=1.2.1.r6.63d7e98
 pkgrel=1
 pkgdesc="Manipulate Chrome's localstorage from the command line"
 arch=('any')
